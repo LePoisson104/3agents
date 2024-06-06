@@ -1,4 +1,4 @@
-# 4368-project
+# 3 Agents PD World
 
 Terminal state: all three drop off cells contain 5 blocks each
 Initial state: Black agent is in cell (1,3), red agent is in cell (3,3) and blue agent is in cell (3,5) and each pickup cell contains 5 blocks
